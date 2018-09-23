@@ -9,6 +9,6 @@ Frontend -> Vue
 
 DB -> MySQL
 
-![](albums.png)
-![](artists.png)
-![](tracks.png)
+![Albums Page](albums.png)
+![Artists Page](artists.png)
+![Tracks Page](tracks.png)
