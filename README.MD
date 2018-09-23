@@ -9,6 +9,6 @@ Frontend -> Vue
 
 DB -> MySQL
 
-![Albums](https://github.com/iethem/eteration-bootcamp-project/blob/master/albums.png?raw=true)
-![Artists](https://github.com/iethem/eteration-bootcamp-project/blob/master/artists.png?raw=true)
-![Tracks](https://github.com/iethem/eteration-bootcamp-project/blob/master/tracks.png?raw=true)
+![Albums](https://raw.githubusercontent.com/iethem/eteration-bootcamp-project/master/albums.PNG)
+![Artists](https://raw.githubusercontent.com/iethem/eteration-bootcamp-project/master/artists.PNG)
+![Tracks](https://raw.githubusercontent.com/iethem/eteration-bootcamp-project/master/tracks.PNG)
